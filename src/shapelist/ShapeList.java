@@ -16,7 +16,7 @@ public class ShapeList {
      */
     public static void main(String[] args) {
         SmallCircle c=new SmallCircle();
-        SmallCircle c1 = new SnalleCircle(6);
+        SmallCircle c1 = new SmallCircle(6);
         
     }
 
